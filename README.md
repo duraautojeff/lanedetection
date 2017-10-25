@@ -1,5 +1,6 @@
 # lanedetection
 Lane detection by fully CNN, w/ deep learning.
+Please review demo in https://www.youtube.com/watch?v=hvHbGirikBI.
 Presented by Dura Automotive Systems, more on www.duraauto.com.
 
 # installation
