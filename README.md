@@ -11,17 +11,17 @@ Presented by Dura Automotive Systems, more on www.duraauto.com.
 4. open "dura_06_det_sam.ipynb".
 
 # Software Requirements
-Python 3.5 or higher. 
-TensorFlow - Suggested to download TensorFlow GPU for best performance
-Keras
-OpenCV (known as cv2 once downloaded) - opencv-python if installing from command line
-h5py
-imageio
-matplotlib
-moviepy
-numpy+mkl
-scikit-learn
-scipy
+  Python 3.5 or higher. 
+  TensorFlow - Suggested to download TensorFlow GPU for best performance
+  Keras
+  OpenCV (known as cv2 once downloaded) - opencv-python if installing from command line
+  h5py
+  imageio
+  matplotlib
+  moviepy
+  numpy+mkl
+  scikit-learn
+  scipy
 
 # How to train
 1. prepare labels
@@ -32,5 +32,5 @@ People can find lane lines on the road fairly easily, even in a wide variety of 
 Computers, on the other hand, do not find this easy. Shadows, glare, small changes in the color of the road, slight obstruction of the line…all things that people can generally still handle, but a computer may struggle mightily with. 
 
 # References:
-Canny, J., "A Computational Approach To Edge Detection", IEEE Trans. Pattern Analysis and Machine Intelligence, 1986
-King Hann Lim et al. "Lane-Vehicle Detection and Tracking", IMECS, 2009
+  Canny, J., "A Computational Approach To Edge Detection", IEEE Trans. Pattern Analysis and Machine Intelligence, 1986
+  King Hann Lim et al. "Lane-Vehicle Detection and Tracking", IMECS, 2009
