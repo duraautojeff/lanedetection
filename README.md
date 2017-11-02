@@ -19,11 +19,17 @@ Keras.
 OpenCV (known as cv2 once downloaded) - opencv-python if installing from command line.
 
 h5py.
+
 imageio.
+
 matplotlib.
+
 moviepy.
+
 numpy+mkl.
+
 scikit-learn.
+
 scipy.
 
 # How to train
