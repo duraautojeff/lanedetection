@@ -11,12 +11,13 @@ Please review demo in https://www.youtube.com/watch?v=o5xpxCyRVA0.
 
 # Software Requirements
 Python 3.5 or higher.
+
 TensorFlow - Suggested to download TensorFlow GPU for best performance.
 
-Python 3.5 or higher.
-TensorFlow - Suggested to download TensorFlow GPU for best performance.
 Keras.
+
 OpenCV (known as cv2 once downloaded) - opencv-python if installing from command line.
+
 h5py.
 imageio.
 matplotlib.
