@@ -1,7 +1,6 @@
 # Lane detection
 Lane detection by fully CNN, w/ deep learning.
-Please review demo in https://www.youtube.com/watch?v=hvHbGirikBI.
-Presented by Dura Automotive Systems, more on www.duraauto.com.
+Please review demo in https://www.youtube.com/watch?v=o5xpxCyRVA0.
 
 # Installation
 1. install tensorflow. Please refer to tensorflow.org.
@@ -11,16 +10,16 @@ Presented by Dura Automotive Systems, more on www.duraauto.com.
 4. open "dura_06_det_sam.ipynb".
 
 # Software Requirements
-Python 3.5 or higher;
-TensorFlow - Suggested to download TensorFlow GPU for best performance;
-Keras;
-OpenCV (known as cv2 once downloaded) - opencv-python if installing from command line;
-h5py;
-imageio;
-matplotlib;
-moviepy;
-numpy+mkl;
-scikit-learn;
+Python 3.5 or higher.
+TensorFlow - Suggested to download TensorFlow GPU for best performance.
+Keras.
+OpenCV (known as cv2 once downloaded) - opencv-python if installing from command line.
+h5py.
+imageio.
+matplotlib.
+moviepy.
+numpy+mkl.
+scikit-learn.
 scipy.
 
 # How to train
