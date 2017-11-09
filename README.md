@@ -1,6 +1,8 @@
 # Lane detection
 Lane detection by fully CNN, w/ deep learning.
-Please review demo in https://www.youtube.com/watch?v=o5xpxCyRVA0.
+Please review demo in 
+  https://www.youtube.com/watch?v=o5xpxCyRVA0, or
+  https://www.youtube.com/watch?v=erF6QPHIrKc.
 
 # Installation
 1. install tensorflow. Please refer to tensorflow.org.
